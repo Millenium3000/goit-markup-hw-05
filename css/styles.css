@@ -527,6 +527,19 @@ img {
 .work-list {
   position: relative;
 }
+/* ставлю слайдеры на абзацы */
+/* .text-hover-portfolio {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 63px;
+    padding-right: 24px;
+    padding-bottom: 63px;
+    padding-left: 24px;
+    color: var(--white-text-color);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.56;
+    letter-spacing: 0.03em; */
 
 
 /* .client .flexbox {
