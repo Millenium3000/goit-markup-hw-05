@@ -528,7 +528,7 @@ img {
   position: relative;
 }
 /* ставлю слайдеры на абзацы */
-.text-overlay {
+/* .text-overlay {
   margin-top: 0px;
   margin-bottom: 0px;
   padding-top: 63px;
@@ -540,7 +540,13 @@ img {
   font-size: 18px;
   line-height: 1.56;
   letter-spacing: 0.03em;
+} */
+.poster-overlay { 
+  position: relative;
+  overflow: hidden;
+
 }
+
 
 /* .slide-link {
   position: absolute;
