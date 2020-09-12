@@ -506,6 +506,29 @@ img {
   height: 42px;
 }
 
+/* Студия. чем мы занимаемся- оформление */
+.work-list-title {
+   position: absolute;
+  width: 100%;
+  bottom: 0%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 27px;
+  padding-bottom: 27px;
+  color: #ffffff;
+  background-color: rgba(47, 48, 58, 0.8);
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-align: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.work-list {
+  position: relative;
+}
+
+
 /* .client .flexbox {
   /* убираю левый паддирнг */
 
