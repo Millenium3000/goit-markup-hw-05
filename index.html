@@ -65,7 +65,9 @@
       <section class="wrap-hero">
         <div class="banner">
           <h1 class="header-hero">Эффективные решения для вашего бизнеса</h1>
-          <a href="" class="white-text link button"> Заказать услугу </a>
+          <a href="" class="white-text link button data-modal-open">
+            Заказать услугу
+          </a>
         </div>
       </section>
 
@@ -542,6 +544,17 @@
         </div>
       </div>
     </footer>
+    <div class="backdrop is-hidden" data-modal>
+      <div class="modal">
+        <button data-modal-close class="close-button">
+          <img
+            src="./images/Modal/close.svg"
+            alt="Закрыть окно"
+            class="modal-cross"
+          />
+        </button>
+      </div>
+    </div>
     <script src="./js/modal.js"></script>
   </body>
 </html>
